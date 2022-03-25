@@ -1,3 +1,5 @@
+##### The following codes were modified from zUMIs https://github.com/sdparekh/zUMIs
+
 #!/usr/bin/env Rscript
 library(edgeR)
 data_dir<-c("exon_dir", "intron_dir")
