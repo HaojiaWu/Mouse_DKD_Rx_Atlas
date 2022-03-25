@@ -1,3 +1,5 @@
+##### The following codes were modified from zUMIs https://github.com/sdparekh/zUMIs
+
 suppressMessages(require(dplyr))
 suppressWarnings(suppressMessages(require(GenomicRanges)))
 suppressWarnings(suppressMessages(require(GenomicFeatures)))
